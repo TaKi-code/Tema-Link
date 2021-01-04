@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcom to Starbuzz</title>
+    <link rel="stylesheet" href="starbuzz.css">
+    
+</head>
+<body>
+    <h1> Bine ati venit la Starbuzz !  </h1>
+<p>
+
+
+</p>
+<h2> Meniul nostru </h2>
+
+<h3>Expresso</h3> 
+<p>15 RON </p>
+<p>Boabe de cafea arabica fin macinate si aroma de caramel </p>
+
+<h3>Irish coffee</h3>
+<img src="https://www.thespruceeats.com/thmb/CvRyhjbotop2ZQjIGTtw_cgNrQQ=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/CaramelIrishCoffee-5bce108cc9e77c00517ea06e.jpg" alt="">
+<p>15 RON</p>
+
+<h3>Ceai</h3>
+<img src="https://cdn1.sph.harvard.edu/wp-content/uploads/sites/30/2019/07/beverage-blur-cup-370018-1200x875.jpg" alt="">
+<p>5 RON</p>
+<p>Negru , verde , fructe de padure , mustel</p>
+<p>
+
+</p>
+<a href="giftcards.html" target="_blank">giftcards rewards</a>
+<p>
+
+<a href="table.html" target="_blank">Tabel</a>
+</p>
+<a href="about.html" target="_blank">Despre noi</a>
+<p>
+
+</p>
+<a href="list.html" target="_blank">Lista</a>
+</body>
+</html>
